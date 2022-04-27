@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.muddzdev:styleabletoast:2.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0a3a2096532bf0bb51b0d32f35d26d31/jetified-styleabletoast-2.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0a3a2096532bf0bb51b0d32f35d26d31/jetified-styleabletoast-2.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a9f7283b3d73546cab2c33e28aad5384/jetified-styleabletoast-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a9f7283b3d73546cab2c33e28aad5384/jetified-styleabletoast-2.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a9f7283b3d73546cab2c33e28aad5384/jetified-styleabletoast-2.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.muddzdev/styleabletoast/2.0.1/ac9ddf71cfcb228a72da9c679d3866e7a039d956/styleabletoast-2.0.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.muddzdev/styleabletoast/2.0.1/ac9ddf71cfcb228a72da9c679d3866e7a039d956/styleabletoast-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.muddzdev/styleabletoast/2.0.1/3648c32f4dbff32e4f89ab107e7b0fefdcd60df0/styleabletoast-2.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.muddzdev/styleabletoast/2.0.1/3648c32f4dbff32e4f89ab107e7b0fefdcd60df0/styleabletoast-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
